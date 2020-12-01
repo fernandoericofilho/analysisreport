@@ -1,0 +1,2 @@
+com/example/analisysreport/AnalisysreportApplicationTests.java
+ com.example.analisysreport.AnalisysreportApplicationTests

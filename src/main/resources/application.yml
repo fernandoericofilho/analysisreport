@@ -1,0 +1,8 @@
+analysis:
+  path: "/home/fernando/Documents"
+  input:
+    path: "${analysis.path}/data/in"
+    type: ".dat"
+  output:
+    path: "${analysis.path}/data/out"
+    type: ".done.dat"
